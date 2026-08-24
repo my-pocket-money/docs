@@ -20,7 +20,10 @@
     ],
     "products": [
       {
-        "product": "Pocket Connect"
+        "product": "Pocket Connect",
+        "pages": [
+          "untitled-page"
+        ]
       }
     ]
   },
