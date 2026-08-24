@@ -20,6 +20,18 @@
     ],
     "products": [
       {
+        "product": "Relay",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "relay/index",
+              "relay/quickstart"
+            ]
+          }
+        ]
+      },
+      {
         "product": "Pocket Connect",
         "groups": [
           {
