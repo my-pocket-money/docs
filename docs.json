@@ -18,7 +18,11 @@
         ]
       }
     ],
-    "groups": []
+    "products": [
+      {
+        "product": "Untitled Product"
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
