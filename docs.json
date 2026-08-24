@@ -18,9 +18,9 @@
         ]
       }
     ],
-    "products": [
+    "groups": [
       {
-        "product": "Pocket Connect",
+        "group": "pocket-connect",
         "pages": [
           "pocket-connect/location"
         ]
